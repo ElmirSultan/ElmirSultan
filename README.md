@@ -1,7 +1,4 @@
-# 💫 About Me:
-🖐️ Hi, I'm Elmir Sultan! I'm a MERN Stack and Front End Developer with years of experience in creating responsive and user-friendly web applications. My skills include HTML, CSS, Tailwind CSS, JavaScript, React and Redux<br>
-⚡ While I'm passionate about front-end development with continuous learning and growth, I'm currently exploring Back-End Development to broaden my skill set and take on more challenging projects.I am comfortable with languages such as Node.js and Python, and I am excited to apply my front-end expertise to building robust,scalable and efficient server-side solutions.<br>
-💆‍♂️ When I am not coding,I enjoy reading, playing games and going to gym,and I'm always looking for new ways to challenge myself and improve my skills.<br>
+
 🤝 Feel free to check out some of my projects on Github and let me know if you have any questions or would like to collaborate on a project.
 
 
